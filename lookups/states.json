@@ -1,0 +1,458 @@
+[
+  {
+    "fips": "01",
+    "usps": "AL",
+    "name": "Alabama",
+    "ap": "Ala.",
+    "chicago": "Ala.",
+    "is_state": true
+  },
+  {
+    "fips": "02",
+    "usps": "AK",
+    "name": "Alaska",
+    "ap": "Alaska",
+    "chicago": "Alas.",
+    "is_state": true
+  },
+  {
+    "fips": "04",
+    "usps": "AZ",
+    "name": "Arizona",
+    "ap": "Ariz.",
+    "chicago": "Ariz.",
+    "is_state": true
+  },
+  {
+    "fips": "05",
+    "usps": "AR",
+    "name": "Arkansas",
+    "ap": "Ark.",
+    "chicago": "Ark.",
+    "is_state": true
+  },
+  {
+    "fips": "06",
+    "usps": "CA",
+    "name": "California",
+    "ap": "Calif.",
+    "chicago": "Calif.",
+    "is_state": true
+  },
+  {
+    "fips": "08",
+    "usps": "CO",
+    "name": "Colorado",
+    "ap": "Colo.",
+    "chicago": "Colo.",
+    "is_state": true
+  },
+  {
+    "fips": "09",
+    "usps": "CT",
+    "name": "Connecticut",
+    "ap": "Conn.",
+    "chicago": "Conn.",
+    "is_state": true
+  },
+  {
+    "fips": "10",
+    "usps": "DE",
+    "name": "Delaware",
+    "ap": "Del.",
+    "chicago": "Del.",
+    "is_state": true
+  },
+  {
+    "fips": "11",
+    "usps": "DC",
+    "name": "District of Columbia",
+    "ap": "District of Columbia",
+    "chicago": "D.C.",
+    "is_state": false
+  },
+  {
+    "fips": "12",
+    "usps": "FL",
+    "name": "Florida",
+    "ap": "Fla.",
+    "chicago": "Fla.",
+    "is_state": true
+  },
+  {
+    "fips": "13",
+    "usps": "GA",
+    "name": "Georgia",
+    "ap": "Ga.",
+    "chicago": "Ga.",
+    "is_state": true
+  },
+  {
+    "fips": "15",
+    "usps": "HI",
+    "name": "Hawaii",
+    "ap": "Hawaii",
+    "chicago": "Hawaii",
+    "is_state": true
+  },
+  {
+    "fips": "16",
+    "usps": "ID",
+    "name": "Idaho",
+    "ap": "Idaho",
+    "chicago": "Idaho",
+    "is_state": true
+  },
+  {
+    "fips": "17",
+    "usps": "IL",
+    "name": "Illinois",
+    "ap": "Ill.",
+    "chicago": "Ill.",
+    "is_state": true
+  },
+  {
+    "fips": "18",
+    "usps": "IN",
+    "name": "Indiana",
+    "ap": "Ind.",
+    "chicago": "Ind.",
+    "is_state": true
+  },
+  {
+    "fips": "19",
+    "usps": "IA",
+    "name": "Iowa",
+    "ap": "Iowa",
+    "chicago": "Iowa",
+    "is_state": true
+  },
+  {
+    "fips": "20",
+    "usps": "KS",
+    "name": "Kansas",
+    "ap": "Kan.",
+    "chicago": "Kans.",
+    "is_state": true
+  },
+  {
+    "fips": "21",
+    "usps": "KY",
+    "name": "Kentucky",
+    "ap": "Ky.",
+    "chicago": "Ky.",
+    "is_state": true
+  },
+  {
+    "fips": "22",
+    "usps": "LA",
+    "name": "Louisiana",
+    "ap": "La.",
+    "chicago": "La.",
+    "is_state": true
+  },
+  {
+    "fips": "23",
+    "usps": "ME",
+    "name": "Maine",
+    "ap": "Maine",
+    "chicago": "Maine",
+    "is_state": true
+  },
+  {
+    "fips": "24",
+    "usps": "MD",
+    "name": "Maryland",
+    "ap": "Md.",
+    "chicago": "Md.",
+    "is_state": true
+  },
+  {
+    "fips": "25",
+    "usps": "MA",
+    "name": "Massachusetts",
+    "ap": "Mass.",
+    "chicago": "Mass.",
+    "is_state": true
+  },
+  {
+    "fips": "26",
+    "usps": "MI",
+    "name": "Michigan",
+    "ap": "Mich.",
+    "chicago": "Mich.",
+    "is_state": true
+  },
+  {
+    "fips": "27",
+    "usps": "MN",
+    "name": "Minnesota",
+    "ap": "Minn.",
+    "chicago": "Minn.",
+    "is_state": true
+  },
+  {
+    "fips": "28",
+    "usps": "MS",
+    "name": "Mississippi",
+    "ap": "Miss.",
+    "chicago": "Miss.",
+    "is_state": true
+  },
+  {
+    "fips": "29",
+    "usps": "MO",
+    "name": "Missouri",
+    "ap": "Mo.",
+    "chicago": "Mo.",
+    "is_state": true
+  },
+  {
+    "fips": "30",
+    "usps": "MT",
+    "name": "Montana",
+    "ap": "Mont.",
+    "chicago": "Mont.",
+    "is_state": true
+  },
+  {
+    "fips": "31",
+    "usps": "NE",
+    "name": "Nebraska",
+    "ap": "Neb.",
+    "chicago": "Nebr.",
+    "is_state": true
+  },
+  {
+    "fips": "32",
+    "usps": "NV",
+    "name": "Nevada",
+    "ap": "Nev.",
+    "chicago": "Nev.",
+    "is_state": true
+  },
+  {
+    "fips": "33",
+    "usps": "NH",
+    "name": "New Hampshire",
+    "ap": "N.H.",
+    "chicago": "N.H.",
+    "is_state": true
+  },
+  {
+    "fips": "34",
+    "usps": "NJ",
+    "name": "New Jersey",
+    "ap": "N.J.",
+    "chicago": "N.J.",
+    "is_state": true
+  },
+  {
+    "fips": "35",
+    "usps": "NM",
+    "name": "New Mexico",
+    "ap": "N.Mex.",
+    "chicago": "N.Mex.",
+    "is_state": true
+  },
+  {
+    "fips": "36",
+    "usps": "NY",
+    "name": "New York",
+    "ap": "N.Y.",
+    "chicago": "N.Y.",
+    "is_state": true
+  },
+  {
+    "fips": "37",
+    "usps": "NC",
+    "name": "North Carolina",
+    "ap": "N.C.",
+    "chicago": "N.C.",
+    "is_state": true
+  },
+  {
+    "fips": "38",
+    "usps": "ND",
+    "name": "North Dakota",
+    "ap": "N.D.",
+    "chicago": "N.Dak.",
+    "is_state": true
+  },
+  {
+    "fips": "39",
+    "usps": "OH",
+    "name": "Ohio",
+    "ap": "Ohio",
+    "chicago": "Ohio",
+    "is_state": true
+  },
+  {
+    "fips": "40",
+    "usps": "OK",
+    "name": "Oklahoma",
+    "ap": "Okla.",
+    "chicago": "Okla.",
+    "is_state": true
+  },
+  {
+    "fips": "41",
+    "usps": "OR",
+    "name": "Oregon",
+    "ap": "Ore.",
+    "chicago": "Oreg.",
+    "is_state": true
+  },
+  {
+    "fips": "42",
+    "usps": "PA",
+    "name": "Pennsylvania",
+    "ap": "Pa.",
+    "chicago": "Pa.",
+    "is_state": true
+  },
+  {
+    "fips": "44",
+    "usps": "RI",
+    "name": "Rhode Island",
+    "ap": "R.I.",
+    "chicago": "R.I.",
+    "is_state": true
+  },
+  {
+    "fips": "45",
+    "usps": "SC",
+    "name": "South Carolina",
+    "ap": "S.C.",
+    "chicago": "S.C.",
+    "is_state": true
+  },
+  {
+    "fips": "46",
+    "usps": "SD",
+    "name": "South Dakota",
+    "ap": "S.D.",
+    "chicago": "S.Dak.",
+    "is_state": true
+  },
+  {
+    "fips": "47",
+    "usps": "TN",
+    "name": "Tennessee",
+    "ap": "Tenn.",
+    "chicago": "Tenn.",
+    "is_state": true
+  },
+  {
+    "fips": "48",
+    "usps": "TX",
+    "name": "Texas",
+    "ap": "Texas",
+    "chicago": "Tex.",
+    "is_state": true
+  },
+  {
+    "fips": "49",
+    "usps": "UT",
+    "name": "Utah",
+    "ap": "Utah",
+    "chicago": "Utah",
+    "is_state": true
+  },
+  {
+    "fips": "50",
+    "usps": "VT",
+    "name": "Vermont",
+    "ap": "Vt.",
+    "chicago": "Vt.",
+    "is_state": true
+  },
+  {
+    "fips": "51",
+    "usps": "VA",
+    "name": "Virginia",
+    "ap": "Va.",
+    "chicago": "Va.",
+    "is_state": true
+  },
+  {
+    "fips": "53",
+    "usps": "WA",
+    "name": "Washington",
+    "ap": "Wash.",
+    "chicago": "Wash.",
+    "is_state": true
+  },
+  {
+    "fips": "54",
+    "usps": "WV",
+    "name": "West Virginia",
+    "ap": "W.Va.",
+    "chicago": "W.Va.",
+    "is_state": true
+  },
+  {
+    "fips": "55",
+    "usps": "WI",
+    "name": "Wisconsin",
+    "ap": "Wis.",
+    "chicago": "Wisc.",
+    "is_state": true
+  },
+  {
+    "fips": "56",
+    "usps": "WY",
+    "name": "Wyoming",
+    "ap": "Wyo.",
+    "chicago": "Wyo.",
+    "is_state": true
+  },
+  {
+    "fips": "60",
+    "usps": "AS",
+    "name": "American Samoa",
+    "ap": "AS",
+    "chicago": "AS",
+    "is_state": false
+  },
+  {
+    "fips": "66",
+    "usps": "GU",
+    "name": "Guam",
+    "ap": "GU",
+    "chicago": "GU",
+    "is_state": false
+  },
+  {
+    "fips": "69",
+    "usps": "MP",
+    "name": "Northern Mariana Islands",
+    "ap": "MP",
+    "chicago": "MP",
+    "is_state": false
+  },
+  {
+    "fips": "72",
+    "usps": "PR",
+    "name": "Puerto Rico",
+    "ap": "Puerto Rico",
+    "chicago": "P.R.",
+    "is_state": false
+  },
+  {
+    "fips": "74",
+    "usps": "UM",
+    "name": "U.S. Minor Outlying Islands",
+    "ap": "UM",
+    "chicago": "UM",
+    "is_state": false
+  },
+  {
+    "fips": "78",
+    "usps": "VI",
+    "name": "U.S. Virgin Islands",
+    "ap": "Virgin Islands",
+    "chicago": "V.I.",
+    "is_state": false
+  }
+]

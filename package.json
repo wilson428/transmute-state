@@ -1,0 +1,24 @@
+{
+  "name": "transmute-state",
+  "version": "0.0.1",
+  "description": "Take any common name or code for a state or territory and return an object with all common identifiers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node demo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilson428/transmute-state.git"
+  },
+  "keywords": [
+    "states",
+    "demography",
+    "abbreviations"
+  ],
+  "author": "Chris Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wilson428/transmute-state/issues"
+  },
+  "homepage": "https://github.com/wilson428/transmute-state#readme"
+}
