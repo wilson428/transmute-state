@@ -1,6 +1,6 @@
 {
   "name": "transmute-state",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Take any common name or code for a state or territory and return an object with all common identifiers",
   "main": "index.js",
   "scripts": {

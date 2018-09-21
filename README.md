@@ -1,11 +1,15 @@
 # Transmute State Names
 
+By [Chris Wilson](http://github.com/wilson428)
+
+**v.0.0.2**
+
 This is a simple repo that takes any common name or code for a state or territory and returns an object with all common identifiers. No dependencies.
 
 ## Properties returned
 
 	+ Official name (`name`)
-	+ Two-letter abbreviation (`abbr`)
+	+ Two-letter abbreviation (`usps`)
 	+ Two-digit FIPS code (`fips`)
 	+ Associated Press style (`ap`)
 	+ Chicago Manual of Style style (`chicago`)
@@ -23,10 +27,13 @@ The 50 states, Washington, D.C., American Samoa, Guam, Northern Mariana Islands,
 
 	const transmute = require('transmute-states');
 
-	const MA = transmute("MA");
-	console.log(MA.name, MA.fips, MA.ap);
-	// Massachusetts 25 Mass.
+	const DC = transmute("DC");
+	console.log(DC.name, DC.fips, DC.ap, DC.is_state);
+	// District of Columbia 11 D.C. false
 
+## Lookups
+
+All lookups are santizied to keys without punctuation or capitalization, so "Conn." and "conn" with both return codes for Connecticut. **There is not currently any fuzzy matching for common misspellings or identifiers like 'Washington, D.C.' that don't appear in the results.**
 
 ## Sources
 
@@ -37,3 +44,7 @@ The 50 states, Washington, D.C., American Samoa, Guam, Northern Mariana Islands,
 ## License
 
 MIT
+
+## To Do
+
++ Fuzzy matching

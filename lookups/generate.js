@@ -9,7 +9,7 @@ var dictionary = {};
 keys.forEach(key => {
 	states.forEach(st => {
 		// remove the space and periods just in the lookups, not in the output
-		dictionary[st[key].replace(/\./g, "").replace(/ /g, "")] = st;
+		dictionary[st[key].replace(/\./g, "").replace(/ /g, "").toLowerCase()] = st;
 	});
 });
 

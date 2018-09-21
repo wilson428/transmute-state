@@ -399,7 +399,7 @@
     "chicago": "V.I.",
     "is_state": false
   },
-  "Alabama": {
+  "alabama": {
     "fips": "01",
     "usps": "AL",
     "name": "Alabama",
@@ -407,7 +407,7 @@
     "chicago": "Ala.",
     "is_state": true
   },
-  "Alaska": {
+  "alaska": {
     "fips": "02",
     "usps": "AK",
     "name": "Alaska",
@@ -415,7 +415,7 @@
     "chicago": "Alas.",
     "is_state": true
   },
-  "Arizona": {
+  "arizona": {
     "fips": "04",
     "usps": "AZ",
     "name": "Arizona",
@@ -423,7 +423,7 @@
     "chicago": "Ariz.",
     "is_state": true
   },
-  "Arkansas": {
+  "arkansas": {
     "fips": "05",
     "usps": "AR",
     "name": "Arkansas",
@@ -431,7 +431,7 @@
     "chicago": "Ark.",
     "is_state": true
   },
-  "California": {
+  "california": {
     "fips": "06",
     "usps": "CA",
     "name": "California",
@@ -439,7 +439,7 @@
     "chicago": "Calif.",
     "is_state": true
   },
-  "Colorado": {
+  "colorado": {
     "fips": "08",
     "usps": "CO",
     "name": "Colorado",
@@ -447,7 +447,7 @@
     "chicago": "Colo.",
     "is_state": true
   },
-  "Connecticut": {
+  "connecticut": {
     "fips": "09",
     "usps": "CT",
     "name": "Connecticut",
@@ -455,7 +455,7 @@
     "chicago": "Conn.",
     "is_state": true
   },
-  "Delaware": {
+  "delaware": {
     "fips": "10",
     "usps": "DE",
     "name": "Delaware",
@@ -463,7 +463,7 @@
     "chicago": "Del.",
     "is_state": true
   },
-  "DistrictofColumbia": {
+  "districtofcolumbia": {
     "fips": "11",
     "usps": "DC",
     "name": "District of Columbia",
@@ -471,7 +471,7 @@
     "chicago": "D.C.",
     "is_state": false
   },
-  "Florida": {
+  "florida": {
     "fips": "12",
     "usps": "FL",
     "name": "Florida",
@@ -479,7 +479,7 @@
     "chicago": "Fla.",
     "is_state": true
   },
-  "Georgia": {
+  "georgia": {
     "fips": "13",
     "usps": "GA",
     "name": "Georgia",
@@ -487,7 +487,7 @@
     "chicago": "Ga.",
     "is_state": true
   },
-  "Hawaii": {
+  "hawaii": {
     "fips": "15",
     "usps": "HI",
     "name": "Hawaii",
@@ -495,7 +495,7 @@
     "chicago": "Hawaii",
     "is_state": true
   },
-  "Idaho": {
+  "idaho": {
     "fips": "16",
     "usps": "ID",
     "name": "Idaho",
@@ -503,7 +503,7 @@
     "chicago": "Idaho",
     "is_state": true
   },
-  "Illinois": {
+  "illinois": {
     "fips": "17",
     "usps": "IL",
     "name": "Illinois",
@@ -511,7 +511,7 @@
     "chicago": "Ill.",
     "is_state": true
   },
-  "Indiana": {
+  "indiana": {
     "fips": "18",
     "usps": "IN",
     "name": "Indiana",
@@ -519,7 +519,7 @@
     "chicago": "Ind.",
     "is_state": true
   },
-  "Iowa": {
+  "iowa": {
     "fips": "19",
     "usps": "IA",
     "name": "Iowa",
@@ -527,7 +527,7 @@
     "chicago": "Iowa",
     "is_state": true
   },
-  "Kansas": {
+  "kansas": {
     "fips": "20",
     "usps": "KS",
     "name": "Kansas",
@@ -535,7 +535,7 @@
     "chicago": "Kans.",
     "is_state": true
   },
-  "Kentucky": {
+  "kentucky": {
     "fips": "21",
     "usps": "KY",
     "name": "Kentucky",
@@ -543,7 +543,7 @@
     "chicago": "Ky.",
     "is_state": true
   },
-  "Louisiana": {
+  "louisiana": {
     "fips": "22",
     "usps": "LA",
     "name": "Louisiana",
@@ -551,7 +551,7 @@
     "chicago": "La.",
     "is_state": true
   },
-  "Maine": {
+  "maine": {
     "fips": "23",
     "usps": "ME",
     "name": "Maine",
@@ -559,7 +559,7 @@
     "chicago": "Maine",
     "is_state": true
   },
-  "Maryland": {
+  "maryland": {
     "fips": "24",
     "usps": "MD",
     "name": "Maryland",
@@ -567,7 +567,7 @@
     "chicago": "Md.",
     "is_state": true
   },
-  "Massachusetts": {
+  "massachusetts": {
     "fips": "25",
     "usps": "MA",
     "name": "Massachusetts",
@@ -575,7 +575,7 @@
     "chicago": "Mass.",
     "is_state": true
   },
-  "Michigan": {
+  "michigan": {
     "fips": "26",
     "usps": "MI",
     "name": "Michigan",
@@ -583,7 +583,7 @@
     "chicago": "Mich.",
     "is_state": true
   },
-  "Minnesota": {
+  "minnesota": {
     "fips": "27",
     "usps": "MN",
     "name": "Minnesota",
@@ -591,7 +591,7 @@
     "chicago": "Minn.",
     "is_state": true
   },
-  "Mississippi": {
+  "mississippi": {
     "fips": "28",
     "usps": "MS",
     "name": "Mississippi",
@@ -599,7 +599,7 @@
     "chicago": "Miss.",
     "is_state": true
   },
-  "Missouri": {
+  "missouri": {
     "fips": "29",
     "usps": "MO",
     "name": "Missouri",
@@ -607,7 +607,7 @@
     "chicago": "Mo.",
     "is_state": true
   },
-  "Montana": {
+  "montana": {
     "fips": "30",
     "usps": "MT",
     "name": "Montana",
@@ -615,7 +615,7 @@
     "chicago": "Mont.",
     "is_state": true
   },
-  "Nebraska": {
+  "nebraska": {
     "fips": "31",
     "usps": "NE",
     "name": "Nebraska",
@@ -623,7 +623,7 @@
     "chicago": "Nebr.",
     "is_state": true
   },
-  "Nevada": {
+  "nevada": {
     "fips": "32",
     "usps": "NV",
     "name": "Nevada",
@@ -631,7 +631,7 @@
     "chicago": "Nev.",
     "is_state": true
   },
-  "NewHampshire": {
+  "newhampshire": {
     "fips": "33",
     "usps": "NH",
     "name": "New Hampshire",
@@ -639,7 +639,7 @@
     "chicago": "N.H.",
     "is_state": true
   },
-  "NewJersey": {
+  "newjersey": {
     "fips": "34",
     "usps": "NJ",
     "name": "New Jersey",
@@ -647,7 +647,7 @@
     "chicago": "N.J.",
     "is_state": true
   },
-  "NewMexico": {
+  "newmexico": {
     "fips": "35",
     "usps": "NM",
     "name": "New Mexico",
@@ -655,7 +655,7 @@
     "chicago": "N.Mex.",
     "is_state": true
   },
-  "NewYork": {
+  "newyork": {
     "fips": "36",
     "usps": "NY",
     "name": "New York",
@@ -663,7 +663,7 @@
     "chicago": "N.Y.",
     "is_state": true
   },
-  "NorthCarolina": {
+  "northcarolina": {
     "fips": "37",
     "usps": "NC",
     "name": "North Carolina",
@@ -671,7 +671,7 @@
     "chicago": "N.C.",
     "is_state": true
   },
-  "NorthDakota": {
+  "northdakota": {
     "fips": "38",
     "usps": "ND",
     "name": "North Dakota",
@@ -679,7 +679,7 @@
     "chicago": "N.Dak.",
     "is_state": true
   },
-  "Ohio": {
+  "ohio": {
     "fips": "39",
     "usps": "OH",
     "name": "Ohio",
@@ -687,7 +687,7 @@
     "chicago": "Ohio",
     "is_state": true
   },
-  "Oklahoma": {
+  "oklahoma": {
     "fips": "40",
     "usps": "OK",
     "name": "Oklahoma",
@@ -695,7 +695,7 @@
     "chicago": "Okla.",
     "is_state": true
   },
-  "Oregon": {
+  "oregon": {
     "fips": "41",
     "usps": "OR",
     "name": "Oregon",
@@ -703,7 +703,7 @@
     "chicago": "Oreg.",
     "is_state": true
   },
-  "Pennsylvania": {
+  "pennsylvania": {
     "fips": "42",
     "usps": "PA",
     "name": "Pennsylvania",
@@ -711,7 +711,7 @@
     "chicago": "Pa.",
     "is_state": true
   },
-  "RhodeIsland": {
+  "rhodeisland": {
     "fips": "44",
     "usps": "RI",
     "name": "Rhode Island",
@@ -719,7 +719,7 @@
     "chicago": "R.I.",
     "is_state": true
   },
-  "SouthCarolina": {
+  "southcarolina": {
     "fips": "45",
     "usps": "SC",
     "name": "South Carolina",
@@ -727,7 +727,7 @@
     "chicago": "S.C.",
     "is_state": true
   },
-  "SouthDakota": {
+  "southdakota": {
     "fips": "46",
     "usps": "SD",
     "name": "South Dakota",
@@ -735,7 +735,7 @@
     "chicago": "S.Dak.",
     "is_state": true
   },
-  "Tennessee": {
+  "tennessee": {
     "fips": "47",
     "usps": "TN",
     "name": "Tennessee",
@@ -743,7 +743,7 @@
     "chicago": "Tenn.",
     "is_state": true
   },
-  "Texas": {
+  "texas": {
     "fips": "48",
     "usps": "TX",
     "name": "Texas",
@@ -751,7 +751,7 @@
     "chicago": "Tex.",
     "is_state": true
   },
-  "Utah": {
+  "utah": {
     "fips": "49",
     "usps": "UT",
     "name": "Utah",
@@ -759,7 +759,7 @@
     "chicago": "Utah",
     "is_state": true
   },
-  "Vermont": {
+  "vermont": {
     "fips": "50",
     "usps": "VT",
     "name": "Vermont",
@@ -767,7 +767,7 @@
     "chicago": "Vt.",
     "is_state": true
   },
-  "Virginia": {
+  "virginia": {
     "fips": "51",
     "usps": "VA",
     "name": "Virginia",
@@ -775,7 +775,7 @@
     "chicago": "Va.",
     "is_state": true
   },
-  "Washington": {
+  "washington": {
     "fips": "53",
     "usps": "WA",
     "name": "Washington",
@@ -783,7 +783,7 @@
     "chicago": "Wash.",
     "is_state": true
   },
-  "WestVirginia": {
+  "westvirginia": {
     "fips": "54",
     "usps": "WV",
     "name": "West Virginia",
@@ -791,7 +791,7 @@
     "chicago": "W.Va.",
     "is_state": true
   },
-  "Wisconsin": {
+  "wisconsin": {
     "fips": "55",
     "usps": "WI",
     "name": "Wisconsin",
@@ -799,7 +799,7 @@
     "chicago": "Wisc.",
     "is_state": true
   },
-  "Wyoming": {
+  "wyoming": {
     "fips": "56",
     "usps": "WY",
     "name": "Wyoming",
@@ -807,7 +807,7 @@
     "chicago": "Wyo.",
     "is_state": true
   },
-  "AmericanSamoa": {
+  "americansamoa": {
     "fips": "60",
     "usps": "AS",
     "name": "American Samoa",
@@ -815,7 +815,7 @@
     "chicago": "AS",
     "is_state": false
   },
-  "Guam": {
+  "guam": {
     "fips": "66",
     "usps": "GU",
     "name": "Guam",
@@ -823,7 +823,7 @@
     "chicago": "GU",
     "is_state": false
   },
-  "NorthernMarianaIslands": {
+  "northernmarianaislands": {
     "fips": "69",
     "usps": "MP",
     "name": "Northern Mariana Islands",
@@ -831,7 +831,7 @@
     "chicago": "MP",
     "is_state": false
   },
-  "PuertoRico": {
+  "puertorico": {
     "fips": "72",
     "usps": "PR",
     "name": "Puerto Rico",
@@ -839,7 +839,7 @@
     "chicago": "P.R.",
     "is_state": false
   },
-  "USMinorOutlyingIslands": {
+  "usminoroutlyingislands": {
     "fips": "74",
     "usps": "UM",
     "name": "U.S. Minor Outlying Islands",
@@ -847,7 +847,7 @@
     "chicago": "UM",
     "is_state": false
   },
-  "USVirginIslands": {
+  "usvirginislands": {
     "fips": "78",
     "usps": "VI",
     "name": "U.S. Virgin Islands",
@@ -855,7 +855,7 @@
     "chicago": "V.I.",
     "is_state": false
   },
-  "AL": {
+  "al": {
     "fips": "01",
     "usps": "AL",
     "name": "Alabama",
@@ -863,7 +863,7 @@
     "chicago": "Ala.",
     "is_state": true
   },
-  "AK": {
+  "ak": {
     "fips": "02",
     "usps": "AK",
     "name": "Alaska",
@@ -871,7 +871,7 @@
     "chicago": "Alas.",
     "is_state": true
   },
-  "AZ": {
+  "az": {
     "fips": "04",
     "usps": "AZ",
     "name": "Arizona",
@@ -879,7 +879,7 @@
     "chicago": "Ariz.",
     "is_state": true
   },
-  "AR": {
+  "ar": {
     "fips": "05",
     "usps": "AR",
     "name": "Arkansas",
@@ -887,7 +887,7 @@
     "chicago": "Ark.",
     "is_state": true
   },
-  "CA": {
+  "ca": {
     "fips": "06",
     "usps": "CA",
     "name": "California",
@@ -895,7 +895,7 @@
     "chicago": "Calif.",
     "is_state": true
   },
-  "CO": {
+  "co": {
     "fips": "08",
     "usps": "CO",
     "name": "Colorado",
@@ -903,7 +903,7 @@
     "chicago": "Colo.",
     "is_state": true
   },
-  "CT": {
+  "ct": {
     "fips": "09",
     "usps": "CT",
     "name": "Connecticut",
@@ -911,7 +911,7 @@
     "chicago": "Conn.",
     "is_state": true
   },
-  "DE": {
+  "de": {
     "fips": "10",
     "usps": "DE",
     "name": "Delaware",
@@ -919,7 +919,7 @@
     "chicago": "Del.",
     "is_state": true
   },
-  "DC": {
+  "dc": {
     "fips": "11",
     "usps": "DC",
     "name": "District of Columbia",
@@ -927,7 +927,7 @@
     "chicago": "D.C.",
     "is_state": false
   },
-  "FL": {
+  "fl": {
     "fips": "12",
     "usps": "FL",
     "name": "Florida",
@@ -935,7 +935,7 @@
     "chicago": "Fla.",
     "is_state": true
   },
-  "GA": {
+  "ga": {
     "fips": "13",
     "usps": "GA",
     "name": "Georgia",
@@ -943,7 +943,7 @@
     "chicago": "Ga.",
     "is_state": true
   },
-  "HI": {
+  "hi": {
     "fips": "15",
     "usps": "HI",
     "name": "Hawaii",
@@ -951,7 +951,7 @@
     "chicago": "Hawaii",
     "is_state": true
   },
-  "ID": {
+  "id": {
     "fips": "16",
     "usps": "ID",
     "name": "Idaho",
@@ -959,7 +959,7 @@
     "chicago": "Idaho",
     "is_state": true
   },
-  "IL": {
+  "il": {
     "fips": "17",
     "usps": "IL",
     "name": "Illinois",
@@ -967,7 +967,7 @@
     "chicago": "Ill.",
     "is_state": true
   },
-  "IN": {
+  "in": {
     "fips": "18",
     "usps": "IN",
     "name": "Indiana",
@@ -975,7 +975,7 @@
     "chicago": "Ind.",
     "is_state": true
   },
-  "IA": {
+  "ia": {
     "fips": "19",
     "usps": "IA",
     "name": "Iowa",
@@ -983,7 +983,7 @@
     "chicago": "Iowa",
     "is_state": true
   },
-  "KS": {
+  "ks": {
     "fips": "20",
     "usps": "KS",
     "name": "Kansas",
@@ -991,7 +991,7 @@
     "chicago": "Kans.",
     "is_state": true
   },
-  "KY": {
+  "ky": {
     "fips": "21",
     "usps": "KY",
     "name": "Kentucky",
@@ -999,7 +999,7 @@
     "chicago": "Ky.",
     "is_state": true
   },
-  "LA": {
+  "la": {
     "fips": "22",
     "usps": "LA",
     "name": "Louisiana",
@@ -1007,7 +1007,7 @@
     "chicago": "La.",
     "is_state": true
   },
-  "ME": {
+  "me": {
     "fips": "23",
     "usps": "ME",
     "name": "Maine",
@@ -1015,7 +1015,7 @@
     "chicago": "Maine",
     "is_state": true
   },
-  "MD": {
+  "md": {
     "fips": "24",
     "usps": "MD",
     "name": "Maryland",
@@ -1023,7 +1023,7 @@
     "chicago": "Md.",
     "is_state": true
   },
-  "MA": {
+  "ma": {
     "fips": "25",
     "usps": "MA",
     "name": "Massachusetts",
@@ -1031,7 +1031,7 @@
     "chicago": "Mass.",
     "is_state": true
   },
-  "MI": {
+  "mi": {
     "fips": "26",
     "usps": "MI",
     "name": "Michigan",
@@ -1039,7 +1039,7 @@
     "chicago": "Mich.",
     "is_state": true
   },
-  "MN": {
+  "mn": {
     "fips": "27",
     "usps": "MN",
     "name": "Minnesota",
@@ -1047,7 +1047,7 @@
     "chicago": "Minn.",
     "is_state": true
   },
-  "MS": {
+  "ms": {
     "fips": "28",
     "usps": "MS",
     "name": "Mississippi",
@@ -1055,7 +1055,7 @@
     "chicago": "Miss.",
     "is_state": true
   },
-  "MO": {
+  "mo": {
     "fips": "29",
     "usps": "MO",
     "name": "Missouri",
@@ -1063,7 +1063,7 @@
     "chicago": "Mo.",
     "is_state": true
   },
-  "MT": {
+  "mt": {
     "fips": "30",
     "usps": "MT",
     "name": "Montana",
@@ -1071,7 +1071,7 @@
     "chicago": "Mont.",
     "is_state": true
   },
-  "NE": {
+  "ne": {
     "fips": "31",
     "usps": "NE",
     "name": "Nebraska",
@@ -1079,7 +1079,7 @@
     "chicago": "Nebr.",
     "is_state": true
   },
-  "NV": {
+  "nv": {
     "fips": "32",
     "usps": "NV",
     "name": "Nevada",
@@ -1087,7 +1087,7 @@
     "chicago": "Nev.",
     "is_state": true
   },
-  "NH": {
+  "nh": {
     "fips": "33",
     "usps": "NH",
     "name": "New Hampshire",
@@ -1095,7 +1095,7 @@
     "chicago": "N.H.",
     "is_state": true
   },
-  "NJ": {
+  "nj": {
     "fips": "34",
     "usps": "NJ",
     "name": "New Jersey",
@@ -1103,7 +1103,7 @@
     "chicago": "N.J.",
     "is_state": true
   },
-  "NM": {
+  "nm": {
     "fips": "35",
     "usps": "NM",
     "name": "New Mexico",
@@ -1111,7 +1111,7 @@
     "chicago": "N.Mex.",
     "is_state": true
   },
-  "NY": {
+  "ny": {
     "fips": "36",
     "usps": "NY",
     "name": "New York",
@@ -1119,7 +1119,7 @@
     "chicago": "N.Y.",
     "is_state": true
   },
-  "NC": {
+  "nc": {
     "fips": "37",
     "usps": "NC",
     "name": "North Carolina",
@@ -1127,7 +1127,7 @@
     "chicago": "N.C.",
     "is_state": true
   },
-  "ND": {
+  "nd": {
     "fips": "38",
     "usps": "ND",
     "name": "North Dakota",
@@ -1135,7 +1135,7 @@
     "chicago": "N.Dak.",
     "is_state": true
   },
-  "OH": {
+  "oh": {
     "fips": "39",
     "usps": "OH",
     "name": "Ohio",
@@ -1143,7 +1143,7 @@
     "chicago": "Ohio",
     "is_state": true
   },
-  "OK": {
+  "ok": {
     "fips": "40",
     "usps": "OK",
     "name": "Oklahoma",
@@ -1151,7 +1151,7 @@
     "chicago": "Okla.",
     "is_state": true
   },
-  "OR": {
+  "or": {
     "fips": "41",
     "usps": "OR",
     "name": "Oregon",
@@ -1159,7 +1159,7 @@
     "chicago": "Oreg.",
     "is_state": true
   },
-  "PA": {
+  "pa": {
     "fips": "42",
     "usps": "PA",
     "name": "Pennsylvania",
@@ -1167,7 +1167,7 @@
     "chicago": "Pa.",
     "is_state": true
   },
-  "RI": {
+  "ri": {
     "fips": "44",
     "usps": "RI",
     "name": "Rhode Island",
@@ -1175,7 +1175,7 @@
     "chicago": "R.I.",
     "is_state": true
   },
-  "SC": {
+  "sc": {
     "fips": "45",
     "usps": "SC",
     "name": "South Carolina",
@@ -1183,7 +1183,7 @@
     "chicago": "S.C.",
     "is_state": true
   },
-  "SD": {
+  "sd": {
     "fips": "46",
     "usps": "SD",
     "name": "South Dakota",
@@ -1191,7 +1191,7 @@
     "chicago": "S.Dak.",
     "is_state": true
   },
-  "TN": {
+  "tn": {
     "fips": "47",
     "usps": "TN",
     "name": "Tennessee",
@@ -1199,7 +1199,7 @@
     "chicago": "Tenn.",
     "is_state": true
   },
-  "TX": {
+  "tx": {
     "fips": "48",
     "usps": "TX",
     "name": "Texas",
@@ -1207,7 +1207,7 @@
     "chicago": "Tex.",
     "is_state": true
   },
-  "UT": {
+  "ut": {
     "fips": "49",
     "usps": "UT",
     "name": "Utah",
@@ -1215,7 +1215,7 @@
     "chicago": "Utah",
     "is_state": true
   },
-  "VT": {
+  "vt": {
     "fips": "50",
     "usps": "VT",
     "name": "Vermont",
@@ -1223,7 +1223,7 @@
     "chicago": "Vt.",
     "is_state": true
   },
-  "VA": {
+  "va": {
     "fips": "51",
     "usps": "VA",
     "name": "Virginia",
@@ -1231,7 +1231,7 @@
     "chicago": "Va.",
     "is_state": true
   },
-  "WA": {
+  "wa": {
     "fips": "53",
     "usps": "WA",
     "name": "Washington",
@@ -1239,7 +1239,7 @@
     "chicago": "Wash.",
     "is_state": true
   },
-  "WV": {
+  "wv": {
     "fips": "54",
     "usps": "WV",
     "name": "West Virginia",
@@ -1247,7 +1247,7 @@
     "chicago": "W.Va.",
     "is_state": true
   },
-  "WI": {
+  "wi": {
     "fips": "55",
     "usps": "WI",
     "name": "Wisconsin",
@@ -1255,7 +1255,7 @@
     "chicago": "Wisc.",
     "is_state": true
   },
-  "WY": {
+  "wy": {
     "fips": "56",
     "usps": "WY",
     "name": "Wyoming",
@@ -1263,7 +1263,7 @@
     "chicago": "Wyo.",
     "is_state": true
   },
-  "AS": {
+  "as": {
     "fips": "60",
     "usps": "AS",
     "name": "American Samoa",
@@ -1271,7 +1271,7 @@
     "chicago": "AS",
     "is_state": false
   },
-  "GU": {
+  "gu": {
     "fips": "66",
     "usps": "GU",
     "name": "Guam",
@@ -1279,7 +1279,7 @@
     "chicago": "GU",
     "is_state": false
   },
-  "MP": {
+  "mp": {
     "fips": "69",
     "usps": "MP",
     "name": "Northern Mariana Islands",
@@ -1287,7 +1287,7 @@
     "chicago": "MP",
     "is_state": false
   },
-  "PR": {
+  "pr": {
     "fips": "72",
     "usps": "PR",
     "name": "Puerto Rico",
@@ -1295,7 +1295,7 @@
     "chicago": "P.R.",
     "is_state": false
   },
-  "UM": {
+  "um": {
     "fips": "74",
     "usps": "UM",
     "name": "U.S. Minor Outlying Islands",
@@ -1303,7 +1303,7 @@
     "chicago": "UM",
     "is_state": false
   },
-  "VI": {
+  "vi": {
     "fips": "78",
     "usps": "VI",
     "name": "U.S. Virgin Islands",
@@ -1367,7 +1367,7 @@
     "chicago": "Conn.",
     "is_state": true
   },
-  "Ala": {
+  "ala": {
     "fips": "01",
     "usps": "AL",
     "name": "Alabama",
@@ -1375,7 +1375,7 @@
     "chicago": "Ala.",
     "is_state": true
   },
-  "Ariz": {
+  "ariz": {
     "fips": "04",
     "usps": "AZ",
     "name": "Arizona",
@@ -1383,7 +1383,7 @@
     "chicago": "Ariz.",
     "is_state": true
   },
-  "Ark": {
+  "ark": {
     "fips": "05",
     "usps": "AR",
     "name": "Arkansas",
@@ -1391,7 +1391,7 @@
     "chicago": "Ark.",
     "is_state": true
   },
-  "Calif": {
+  "calif": {
     "fips": "06",
     "usps": "CA",
     "name": "California",
@@ -1399,7 +1399,7 @@
     "chicago": "Calif.",
     "is_state": true
   },
-  "Colo": {
+  "colo": {
     "fips": "08",
     "usps": "CO",
     "name": "Colorado",
@@ -1407,7 +1407,7 @@
     "chicago": "Colo.",
     "is_state": true
   },
-  "Conn": {
+  "conn": {
     "fips": "09",
     "usps": "CT",
     "name": "Connecticut",
@@ -1415,7 +1415,7 @@
     "chicago": "Conn.",
     "is_state": true
   },
-  "Del": {
+  "del": {
     "fips": "10",
     "usps": "DE",
     "name": "Delaware",
@@ -1423,7 +1423,7 @@
     "chicago": "Del.",
     "is_state": true
   },
-  "Fla": {
+  "fla": {
     "fips": "12",
     "usps": "FL",
     "name": "Florida",
@@ -1431,15 +1431,7 @@
     "chicago": "Fla.",
     "is_state": true
   },
-  "Ga": {
-    "fips": "13",
-    "usps": "GA",
-    "name": "Georgia",
-    "ap": "Ga.",
-    "chicago": "Ga.",
-    "is_state": true
-  },
-  "Ill": {
+  "ill": {
     "fips": "17",
     "usps": "IL",
     "name": "Illinois",
@@ -1447,7 +1439,7 @@
     "chicago": "Ill.",
     "is_state": true
   },
-  "Ind": {
+  "ind": {
     "fips": "18",
     "usps": "IN",
     "name": "Indiana",
@@ -1455,7 +1447,7 @@
     "chicago": "Ind.",
     "is_state": true
   },
-  "Kan": {
+  "kan": {
     "fips": "20",
     "usps": "KS",
     "name": "Kansas",
@@ -1463,31 +1455,7 @@
     "chicago": "Kans.",
     "is_state": true
   },
-  "Ky": {
-    "fips": "21",
-    "usps": "KY",
-    "name": "Kentucky",
-    "ap": "Ky.",
-    "chicago": "Ky.",
-    "is_state": true
-  },
-  "La": {
-    "fips": "22",
-    "usps": "LA",
-    "name": "Louisiana",
-    "ap": "La.",
-    "chicago": "La.",
-    "is_state": true
-  },
-  "Md": {
-    "fips": "24",
-    "usps": "MD",
-    "name": "Maryland",
-    "ap": "Md.",
-    "chicago": "Md.",
-    "is_state": true
-  },
-  "Mass": {
+  "mass": {
     "fips": "25",
     "usps": "MA",
     "name": "Massachusetts",
@@ -1495,7 +1463,7 @@
     "chicago": "Mass.",
     "is_state": true
   },
-  "Mich": {
+  "mich": {
     "fips": "26",
     "usps": "MI",
     "name": "Michigan",
@@ -1503,7 +1471,7 @@
     "chicago": "Mich.",
     "is_state": true
   },
-  "Minn": {
+  "minn": {
     "fips": "27",
     "usps": "MN",
     "name": "Minnesota",
@@ -1511,7 +1479,7 @@
     "chicago": "Minn.",
     "is_state": true
   },
-  "Miss": {
+  "miss": {
     "fips": "28",
     "usps": "MS",
     "name": "Mississippi",
@@ -1519,15 +1487,7 @@
     "chicago": "Miss.",
     "is_state": true
   },
-  "Mo": {
-    "fips": "29",
-    "usps": "MO",
-    "name": "Missouri",
-    "ap": "Mo.",
-    "chicago": "Mo.",
-    "is_state": true
-  },
-  "Mont": {
+  "mont": {
     "fips": "30",
     "usps": "MT",
     "name": "Montana",
@@ -1535,7 +1495,7 @@
     "chicago": "Mont.",
     "is_state": true
   },
-  "Neb": {
+  "neb": {
     "fips": "31",
     "usps": "NE",
     "name": "Nebraska",
@@ -1543,7 +1503,7 @@
     "chicago": "Nebr.",
     "is_state": true
   },
-  "Nev": {
+  "nev": {
     "fips": "32",
     "usps": "NV",
     "name": "Nevada",
@@ -1551,7 +1511,7 @@
     "chicago": "Nev.",
     "is_state": true
   },
-  "NMex": {
+  "nmex": {
     "fips": "35",
     "usps": "NM",
     "name": "New Mexico",
@@ -1559,7 +1519,7 @@
     "chicago": "N.Mex.",
     "is_state": true
   },
-  "Okla": {
+  "okla": {
     "fips": "40",
     "usps": "OK",
     "name": "Oklahoma",
@@ -1567,7 +1527,7 @@
     "chicago": "Okla.",
     "is_state": true
   },
-  "Ore": {
+  "ore": {
     "fips": "41",
     "usps": "OR",
     "name": "Oregon",
@@ -1575,15 +1535,7 @@
     "chicago": "Oreg.",
     "is_state": true
   },
-  "Pa": {
-    "fips": "42",
-    "usps": "PA",
-    "name": "Pennsylvania",
-    "ap": "Pa.",
-    "chicago": "Pa.",
-    "is_state": true
-  },
-  "Tenn": {
+  "tenn": {
     "fips": "47",
     "usps": "TN",
     "name": "Tennessee",
@@ -1591,23 +1543,7 @@
     "chicago": "Tenn.",
     "is_state": true
   },
-  "Vt": {
-    "fips": "50",
-    "usps": "VT",
-    "name": "Vermont",
-    "ap": "Vt.",
-    "chicago": "Vt.",
-    "is_state": true
-  },
-  "Va": {
-    "fips": "51",
-    "usps": "VA",
-    "name": "Virginia",
-    "ap": "Va.",
-    "chicago": "Va.",
-    "is_state": true
-  },
-  "Wash": {
+  "wash": {
     "fips": "53",
     "usps": "WA",
     "name": "Washington",
@@ -1615,7 +1551,7 @@
     "chicago": "Wash.",
     "is_state": true
   },
-  "WVa": {
+  "wva": {
     "fips": "54",
     "usps": "WV",
     "name": "West Virginia",
@@ -1623,7 +1559,7 @@
     "chicago": "W.Va.",
     "is_state": true
   },
-  "Wis": {
+  "wis": {
     "fips": "55",
     "usps": "WI",
     "name": "Wisconsin",
@@ -1631,7 +1567,7 @@
     "chicago": "Wisc.",
     "is_state": true
   },
-  "Wyo": {
+  "wyo": {
     "fips": "56",
     "usps": "WY",
     "name": "Wyoming",
@@ -1639,7 +1575,7 @@
     "chicago": "Wyo.",
     "is_state": true
   },
-  "VirginIslands": {
+  "virginislands": {
     "fips": "78",
     "usps": "VI",
     "name": "U.S. Virgin Islands",
@@ -1647,7 +1583,7 @@
     "chicago": "V.I.",
     "is_state": false
   },
-  "Alas": {
+  "alas": {
     "fips": "02",
     "usps": "AK",
     "name": "Alaska",
@@ -1655,7 +1591,7 @@
     "chicago": "Alas.",
     "is_state": true
   },
-  "Kans": {
+  "kans": {
     "fips": "20",
     "usps": "KS",
     "name": "Kansas",
@@ -1663,7 +1599,7 @@
     "chicago": "Kans.",
     "is_state": true
   },
-  "Nebr": {
+  "nebr": {
     "fips": "31",
     "usps": "NE",
     "name": "Nebraska",
@@ -1671,7 +1607,7 @@
     "chicago": "Nebr.",
     "is_state": true
   },
-  "NDak": {
+  "ndak": {
     "fips": "38",
     "usps": "ND",
     "name": "North Dakota",
@@ -1679,7 +1615,7 @@
     "chicago": "N.Dak.",
     "is_state": true
   },
-  "Oreg": {
+  "oreg": {
     "fips": "41",
     "usps": "OR",
     "name": "Oregon",
@@ -1687,7 +1623,7 @@
     "chicago": "Oreg.",
     "is_state": true
   },
-  "SDak": {
+  "sdak": {
     "fips": "46",
     "usps": "SD",
     "name": "South Dakota",
@@ -1695,7 +1631,7 @@
     "chicago": "S.Dak.",
     "is_state": true
   },
-  "Tex": {
+  "tex": {
     "fips": "48",
     "usps": "TX",
     "name": "Texas",
@@ -1703,7 +1639,7 @@
     "chicago": "Tex.",
     "is_state": true
   },
-  "Wisc": {
+  "wisc": {
     "fips": "55",
     "usps": "WI",
     "name": "Wisconsin",
