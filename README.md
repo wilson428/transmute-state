@@ -8,12 +8,12 @@ This is a simple repo that takes any common name or code for a state or territor
 
 ## Properties returned
 
-	+ Official name (`name`)
-	+ Two-letter abbreviation (`usps`)
-	+ Two-digit FIPS code (`fips`)
-	+ Associated Press style (`ap`)
-	+ Chicago Manual of Style style (`chicago`)
-	+ Boolean flag on whether this is a state (`is_state`)
++ Official name (`name`)
++ Two-letter abbreviation (`usps`)
++ Two-digit FIPS code (`fips`)
++ Associated Press style (`ap`)
++ Chicago Manual of Style style (`chicago`)
++ Boolean flag on whether this is a state (`is_state`)
 
 ## Coverage
 
@@ -43,7 +43,7 @@ All lookups are santizied to keys without punctuation or capitalization, so "Con
 
 ## License
 
-MIT
+[MIT](LICENSE.md)
 
 ## To Do
 
