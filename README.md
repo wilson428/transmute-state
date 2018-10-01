@@ -21,11 +21,11 @@ The 50 states, Washington, D.C., American Samoa, Guam, Northern Mariana Islands,
 
 ## Installation
 
-	npm install transmute-states --save
+	npm install transmute-state --save
 
 ## Usage
 
-	const transmute = require('transmute-states');
+	const transmute = require('transmute-state');
 
 	const DC = transmute("DC");
 	console.log(DC.name, DC.fips, DC.ap, DC.is_state);
